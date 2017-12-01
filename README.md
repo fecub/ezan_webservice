@@ -4,9 +4,6 @@
 ## Detaylı Bilgi İçin;
 http://ahmeti.net/ahmeti-namaz-vakitleri-api-get-metodu-ile/
 
-## Demo
-http://namazvakitleri.ahmeti.net
-
 
 [ahmeti.net](http://ahmeti.net/ahmeti-namaz-vakitleri-api-get-metodu-ile/) den alinmistir.
 
