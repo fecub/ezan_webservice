@@ -12,7 +12,8 @@ date_default_timezone_set('Europe/Istanbul');
 define('KONTROL', true);
 define('SITE_PATH', dirname(__FILE__));
 # define('SITE_URL', 'http://127.0.0.1/namazvakitleri'); // SITE URL
-define('SITE_URL', 'http://service-fecub.rhcloud.com/'); // SITE URL
+# define('SITE_URL', 'http://service-fecub.rhcloud.com/'); // SITE URL
+define('http://ezanwebservice-ezanservice.193b.starter-ca-central-1.openshiftapps.com/')
 
 
 require 'function.php';
